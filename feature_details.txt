@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 updated feature: 0auth integration
+=======
+Feature: user authentication\nDetails: login and signup
+>>>>>>> feature-update
